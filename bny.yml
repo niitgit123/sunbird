@@ -1,0 +1,8 @@
+---
+- name: install rpm package
+  role: installing package
+  tags:
+    - installing rpm
+
+
+
